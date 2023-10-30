@@ -1,6 +1,6 @@
 #!/bin/bash
  
-curl 'https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=693axxx6-7aoc-4bc4-97a0-0ec2sifa5aaa' \
+curl 'https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=349d6b14-af2c-4c1e-893e-074d2f234beb' \
    -H 'Content-Type: application/json' \
    -d '
    {
