@@ -7,6 +7,7 @@ curl 'https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=349d6b14-af2c-4c1e-89
     "msgtype": "text",
     "text": {
         "content": "请大家记得写周报哦",
-        "mentioned_list":[@all"]
+        "mentioned_list":["@all"]
     }
 }'
+
